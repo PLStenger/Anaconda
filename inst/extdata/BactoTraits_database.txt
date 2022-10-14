@@ -1,0 +1,340 @@
+Kingdom	Phylum	Class	Order	Family	Genus	Species	Full_name	Heterotroph	Autotroph	Organotroph	Lithotroph	Chemotroph	Phototroph	Copiotroph_Diazotroph	Methylotroph	Oligotroph
+Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Acidiphilium	cryptum	Acidiphilium cryptum Harrison 1981	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Roseococcus	thiosulfatophilus	Roseococcus thiosulfatophilus Yurkov et al. 1994	0.25	0	0.25	0	0.25	0.25	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Azospirillales	Azospirillales_Incertae_Sedis	Stella	humosa	Stella humosa Vasilyeva 1985	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Azospirillales	Azospirillales_Incertae_Sedis	Stella	vacuolata	Stella vacuolata Vasilyeva 1985	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Acidisoma	tundrae	Acidisoma tundrae Belova et al. 2009	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Acidisoma	sibiricum	Acidisoma sibiricum Belova et al. 2009	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Acidaminococcaceae	Succinispira	mobilis	Succinispira mobilis Janssen and O'Farrell 1999	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Actinobacteria	Acidimicrobiia	Acidimicrobiales	Acidimicrobiaceae	Acidimicrobium	ferrooxidans	Acidimicrobium ferrooxidans Clark and Norris 1996 emend. Nouioui et al. 2018	0.5	0.5	0	0	0	0	0	0	0
+Bacteria	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Granulicella	rosea	Granulicella rosea Pankratov and Dedysh 2010	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Granulicella	pectinivorans	Granulicella pectinivorans Pankratov and Dedysh 2010	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Granulicella	aggregans	Granulicella aggregans Pankratov and Dedysh 2010	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Granulicella	paludicola	Granulicella paludicola Pankratov and Dedysh 2010	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Telmatobacter	bradus	Telmatobacter bradus Pankratov et al. 2012	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Bryocella	elongata	Bryocella elongata Dedysh et al. 2012	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	media	Aeromonas media Allen et al. 1983	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	encheleia	Aeromonas encheleia Esteve et al. 1995 emend. Huys et al. 1997	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	simiae	Aeromonas simiae Harf-Monteil et al. 2004	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	popoffii	Aeromonas popoffii Huys et al. 1997	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Brackiella	oedipodis	Brackiella oedipodis Willems et al. 2002	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Oligella	urethralis	Oligella urethralis (Lautrop et al. 1970) Rossau et al. 1987	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Bordetella	avium	Bordetella avium Kersters et al. 1984	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Aestuariibacter	halophilus	Aestuariibacter halophilus Yi et al. 2004	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Aestuariibacter	salexigens	Aestuariibacter salexigens Yi et al. 2004	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Alteromonas	addita	Alteromonas addita Ivanova et al. 2005	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Alteromonas	genovensis	Alteromonas genovensis Vandecandelaere et al. 2008	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Glaciecola	pallidula	Glaciecola pallidula Bowman et al. 1998	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Cellvibrionaceae	Saccharophagus	degradans	Saccharophagus degradans Ekborg et al. 2005	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Marinobacteraceae	Marinobacter	sediminum	Marinobacter sediminum Romanenko et al. 2005	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Marinobacteraceae	Marinobacter	bryozoorum	Marinobacter bryozoorum Romanenko et al. 2005	1	0	0	0	0	0	0	0	0
+Bacteria	Aquificae	Aquificae	Aquificales	Aquificaceae	Hydrogenobacter	thermophilus	Hydrogenobacter thermophilus Kawasumi et al. 1984	0	0	0	0.5	0.5	0	0	0	0
+Bacteria	Aquificae	Aquificae	Hydrogenothermales	Hydrogenothermaceae	Persephonella	marina	Persephonella marina GÃ¶tz et al. 2002	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Aquificae	Aquificae	Aquificales	Aquificaceae	Thermocrinis	minervae	Thermocrinis minervae Caldwell et al. 2010	0	0	0	0.5	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	azotoformans	Bacillus azotoformans (ex Pichinoty et al. 1976) Pichinoty et al. 1983	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	safensis	Bacillus safensis Satomi et al. 2006	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Halobacillus	halophilus	Halobacillus halophilus (Claus et al. 1984) Spring et al. 1996	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Halobacillus	trueperi	Halobacillus trueperi Spring et al. 1996	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Halobacillus	litoralis	Halobacillus litoralis Spring et al. 1996	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Paraliobacillus	quinghaiensis	Paraliobacillus quinghaiensis Chen et al. 2009	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Vulcanibacillus	modesticaldus	Vulcanibacillus modesticaldus L'Haridon et al. 2006	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Amphibacillus	xylanus	Amphibacillus xylanus Niimura et al. 1990	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	stearothermophilus	Geobacillus stearothermophilus (Donk 1920) Nazina et al. 2001 emend. Coorevits et al. 2012	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	kaustophilus	Geobacillus kaustophilus (Priest et al. 1989) Nazina et al. 2001	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Parageobacillus	thermantarcticus	Parageobacillus thermantarcticus (Nicolaus et al. 2002) Aliyu et al. 2019	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	uzenensis	Geobacillus uzenensis Nazina et al. 2001	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	lituanicus	Geobacillus lituanicus Kuisiene et al. 2004	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	jurassicus	Geobacillus jurassicus Nazina et al. 2005 emend. Coorevits et al. 2012	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Gracilibacillus	dipsosauri	Gracilibacillus dipsosauri (Lawson et al. 1996) WainÃ¸ et al. 1999	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Gracilibacillus	halotolerans	Gracilibacillus halotolerans WainÃ¸ et al. 1999	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Virgibacillus	olivae	Virgibacillus olivae Quesada et al. 2007	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Chelatococcus	sambhunathii	Chelatococcus sambhunathii Panday and Das 2010	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Bogoriellaceae	Georgenia	ruanii	Georgenia ruanii Li et al. 2007	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Bosea	thiooxidans	Bosea thiooxidans Das et al. 1996	0.333333333	0	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Rhodoblastus	sphagnicola	Rhodoblastus sphagnicola Kulichevskaya et al. 2006	0.25	0.25	0.25	0	0	0.25	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Rhodoplanes	tepidamans	Rhodoplanes tepidamans Hiraishi and Okamura 2017	0	0	0	0.5	0	0.5	1	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Ochrobactrum	anthropi	Ochrobactrum anthropi Holmes et al. 1988	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Limnobacter	thiooxidans	Limnobacter thiooxidans Spring et al. 2001	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pandoraea	thiooxydans	Pandoraea thiooxydans Anandham et al. 2010	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Polynucleobacter	asymbioticus	Polynucleobacter asymbioticus (Hahn et al. 2009) Hahn et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Polynucleobacter	sinensis	Polynucleobacter sinensis Hahn et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Polynucleobacter	yangtzensis	Polynucleobacter yangtzensis Hahn et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Polynucleobacter	duraquae	Polynucleobacter duraquae Hahn et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Polynucleobacter	victoriensis	Polynucleobacter victoriensis Hahn et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Polynucleobacter	cosmopolitanus	Polynucleobacter cosmopolitanus Hahn et al. 2010	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Polynucleobacter	acidiphobus	Polynucleobacter acidiphobus Hahn et al. 2011	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Polynucleobacter	rarus	Polynucleobacter rarus Hahn et al. 2011	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Polynucleobacter	difficilis	Polynucleobacter difficilis Hahn et al. 2012	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Phenylobacterium	immobile	Phenylobacterium immobile Lingens et al. 1985	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Chlorobia	Chlorobiales	Chlorobiaceae	Chlorobaculum	tepidum	Chlorobaculum tepidum (Wahlund et al. 1996) Imhoff 2003	0	0	0	0	0	1	0	0	0
+Bacteria	Bacteroidetes	Chlorobia	Chlorobiales	Chlorobiaceae	Chlorobaculum	limnaeum	Chlorobaculum limnaeum Imhoff 2003	0	0	0	0	0	1	0	0	0
+Bacteria	Bacteroidetes	Chlorobia	Chlorobiales	Chlorobiaceae	Chlorobaculum	parvum	Chlorobaculum parvum Imhoff 2003	0	0	0	0	0	1	0	0	0
+Bacteria	Bacteroidetes	Chlorobia	Chlorobiales	Chlorobiaceae	Chlorobaculum	thiosulfatiphilum	Chlorobaculum thiosulfatiphilum Imhoff 2003	0	0	0	0	0	1	0	0	0
+Bacteria	Bacteroidetes	Chlorobia	Chlorobiales	Chlorobiaceae	Prosthecochloris	vibrioformis	Prosthecochloris vibrioformis (Pelsh 1936) Imhoff 2003	0	0	0	0	0	1	0	0	0
+Bacteria	Chloroflexi	Chloroflexia	Chloroflexales	Roseiflexaceae	Roseiflexus	castenholzii	Roseiflexus castenholzii Hanada et al. 2002 emend. Nouioui et al. 2018	0.25	0	0.25	0	0.25	0.25	0	0	0
+Bacteria	Chloroflexi	Chloroflexia	Chloroflexales	Chloroflexaceae	Chloroflexus	aggregans	Chloroflexus aggregans Hanada et al. 1995	0.25	0	0.25	0	0.25	0.25	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Family_XI	Gottschalkia	acidurici	Gottschalkia acidurici (Liebert 1909) Poehlein et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerotignum	propionicum	Anaerotignum propionicum (Cardon and Barker 1946) Ueki et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Family_XI	Gottschalkia	purinilytica	Gottschalkia purinilytica (DÃ_rre et al. 1981) Poehlein et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Maledivibacter	halophilus	Maledivibacter halophilus (Fendrich et al. 1991) Li et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerotignum	neopropionicum	Anaerotignum neopropionicum (Tholozan et al. 1995) Ueki et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerotignum	lactatifermentans	Anaerotignum lactatifermentans (van der Wielen et al. 2002) Ueki et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Hungateiclostridiaceae	Hungateiclostridium	clariflavum	Hungateiclostridium clariflavum (Shiratori et al. 2009) Zhang et al. 2018	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Hydrogenophaga	palleronii	Hydrogenophaga palleronii (Davis 1970) Willems et al. 1989	0	0.25	0.25	0.25	0.25	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Hydrogenophaga	pseudoflava	Hydrogenophaga pseudoflava (Auling et al. 1978) Willems et al. 1989	0	0.25	0.25	0.25	0.25	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Hydrogenophaga	taeniospiralis	Hydrogenophaga taeniospiralis (Lalucat et al. 1982) Willems et al. 1989	0	0.25	0.25	0.25	0.25	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Polaromonas	naphthalenivorans	Polaromonas naphthalenivorans Jeon et al. 2004	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Polaromonas	hydrogenivorans	Polaromonas hydrogenivorans Sizova and Panikov 2007	0	0	0.333333333	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Verminephrobacter	eiseniae	Verminephrobacter eiseniae Pinel et al. 2012	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Limnohabitans	curvus	Limnohabitans curvus Hahn et al. 2010	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Limnohabitans	australis	Limnohabitans australis Hahn et al. 2010	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Limnohabitans	parvus	Limnohabitans parvus KasalickÃ_ et al. 2010	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Limnohabitans	planktonicus	Limnohabitans planktonicus KasalickÃ_ et al. 2010	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	efficiens	Corynebacterium efficiens Fudou et al. 2002 emend. Nouioui et al. 2018	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Spirosomaceae	Dyadobacter	fermentans	Dyadobacter fermentans Chelius and Triplett 2000 emend. Hahnke et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Microscillaceae	Microscilla	marina	Microscilla marina (Pringsheim 1951) Lewin 1969 emend. Hahnke et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Deferribacteres	Deferribacteres	Deferribacterales	Deferribacteraceae	Deferribacter	desulfuricans	Deferribacter desulfuricans Takai et al. 2003	1	0	0	0	0	0	0	0	0
+Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcacea	Deinobacterium	chartae	Deinobacterium chartae Ekman et al. 2011	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfofrigus	fragile	Desulfofrigus fragile Knoblauch et al. 1999	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfofrigus	oceanense	Desulfofrigus oceanense Knoblauch et al. 1999	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobulbaceae	Desulfopila	inferna	Desulfopila inferna Gittel et al. 2010	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfohalobiaceae	Desulfonatronovibrio	hydrogenovorans	Desulfonatronovibrio hydrogenovorans Zhilina et al. 1997	0.333333333	0	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfonatronaceae	Desulfonatronum	thiodismutans	Desulfonatronum thiodismutans Pikuta et al. 2003	0.333333333	0	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfonatronaceae	Desulfonatronum	cooperativum	Desulfonatronum cooperativum Zhilina et al. 2005	0	0	0	1	0	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	psychrotolerans	Desulfovibrio psychrotolerans Sasi Jyothsna et al. 2008	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Desulfuromonadaceae	Desulfuromusa	ferrireducens	Desulfuromusa ferrireducens Vandieken et al. 2006	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Desulfuromonadaceae	Desulfuromonas	svalbardensis	Desulfuromonas svalbardensis Vandieken et al. 2006	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Dictyoglomi	Dictyoglomia	Dictyoglomales	Dictyoglomaceae	Dictyoglomus	turgidum	Dictyoglomus turgidum corrig. Svetlichny and SvetlichnayÃ¡ 1995	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Dietziaceae	Dietzia	maris	Dietzia maris (Nesterenko et al. 1982) Rainey et al. 1995 emend. Nouioui et al. 2018	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Erythrobacter	litoralis	Erythrobacter litoralis Yurkov et al. 1994	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Aequorivita	sublithincola	Aequorivita sublithincola Bowman and Nichols 2002	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Cellulophaga	lytica	Cellulophaga lytica (Lewin 1969) Johansen et al. 1999 emend. Hahnke et al. 2016	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Cellulophaga	algicola	Cellulophaga algicola Bowman 2000 emend. Hahnke et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Mesonia	algae	Mesonia algae Nedashkovskaya et al. 2003	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Mesonia	mobilis	Mesonia mobilis Nedashkovskaya et al. 2006	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Robiginitalea	biformata	Robiginitalea biformata Cho and Giovannoni 2004 emend. Hahnke et al. 2016	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Ulvibacter	litoralis	Ulvibacter litoralis Nedashkovskaya et al. 2004	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Halothiobacillales	Halothiobacillaceae	Halothiobacillus	neapolitanus	Halothiobacillus neapolitanus (Parker 1957) Kelly and Wood 2000 emend. Boden 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalibacteraceae	Guyparkeria	halophila	Guyparkeria halophila (Wood and Kelly 1995) Boden 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalibacteraceae	Guyparkeria	hydrothermalis	Guyparkeria hydrothermalis (Durand et al. 1997) Boden 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Thiobacillaceae	Annwoodia	aquaesulis	Annwoodia aquaesulis (Wood and Kelly 1995) Boden et al. 2017	0.25	0.25	0	0.25	0.25	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Hirschia	baltica	Hirschia baltica Schlesner et al. 1990	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Thiomicrospirales	Thiomicrospiraceae	Thiomicrospira	aerophila	Thiomicrospira aerophila (Sorokin et al. 2001) Boden et al. 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Thiomicrospirales	Thiomicrospiraceae	Thiomicrospira	sibirica	Thiomicrospira sibirica (Sorokin et al. 2001) Boden et al. 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Thiomicrospirales	Thiomicrospiraceae	Thiomicrospira	cyclica	Thiomicrospira cyclica (Sorokin et al. 2002) Boden et al. 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Thiomicrospirales	Thiomicrospiraceae	Thiomicrospira	microaerophila	Thiomicrospira microaerophila (Sorokin et al. 2007) Boden et al. 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Thiomicrospirales	Thiomicrospiraceae	Hydrogenovibrio	kuenenii	Hydrogenovibrio kuenenii (Brinkhoff et al. 1999) Boden et al. 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Thiomicrospirales	Thiomicrospiraceae	Thiomicrorhabdus	frisia	Thiomicrorhabdus frisia (Brinkhoff et al. 1999) Boden et al. 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Thiomicrospirales	Thiomicrospiraceae	Thiomicrorhabdus	chilensis	Thiomicrorhabdus chilensis (Brinkhoff et al. 1999) Boden et al. 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Thiomicrospirales	Thiomicrospiraceae	Thiomicrorhabdus	arctica	Thiomicrorhabdus arctica (Knittel et al. 2005) Boden et al. 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Thiomicrospirales	Thiomicrospiraceae	Thiomicrorhabdus	psychrophila	Thiomicrorhabdus psychrophila (Knittel et al. 2005) Boden et al. 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Thiomicrospirales	Thiomicrospiraceae	Hydrogenovibrio	halophilus	Hydrogenovibrio halophilus (Sorokin et al. 2006) Boden et al. 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Planctomycetes	Planctomycetacia	Isosphaerales	Isosphaeraceae	Singulisphaera	acidiphila	Singulisphaera acidiphila Kulichevskaya et al. 2008 emend. Scheuner et al. 2014	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Paludibacteraceae	Paludibacter	propionicigenes	Paludibacter propionicigenes Ueki et al. 2006	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Stappiaceae	Pannonibacter	phragmitetus	Pannonibacter phragmitetus Borsodi et al. 2003	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Stappiaceae	Pannonibacter	phragmitetus	Pannonibacter phragmitetus Borsodi et al. 2003	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Stappiaceae	Pannonibacter	phragmitetus	Pannonibacter phragmitetus Borsodi et al. 2003	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Saprospiraceae	Lewinella	cohaerens	Lewinella cohaerens (Lewin 1970) Sly et al. 1998 emend. Khan et al. 2007	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	paludis	Mucilaginibacter paludis Pankratov et al. 2007 emend. Hahnke et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Oceanispirochaeta	litoralis	Oceanispirochaeta litoralis (Canale-Parola 1980) Subhash and Lee 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Thermotogae	Thermotogae	Thermotogales	Fervidobacteriaceae	Fervidobacterium	nodosum	Fervidobacterium nodosum Patel et al. 1985	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Thermotogae	Thermotogae	Thermotogales	Thermotogaceae	Thermotoga	petrophila	Thermotoga petrophila Takahata et al. 2001	1	0	0	0	0	0	0	0	0
+Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	Ktedonobacter	racemifer	Ktedonobacter racemifer corrig. Cavaletti et al. 2007	1	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Cyclobacteriaceae	Cyclobacterium	marinum	Cyclobacterium marinum corrig. (Raj 1976) Raj and Maloy 1990 emend. Hahnke et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Cyclobacteriaceae	Echinicola	pacifica	Echinicola pacifica Nedashkovskaya et al. 2006 emend. Hahnke et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Synergistetes	Synergistia	Synergistales	Synergistaceae	Acetomicrobium	mobile	Acetomicrobium mobile (Menes and MuxÃ_ 2002) Ben Hania et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Synergistetes	Synergistia	Synergistales	Synergistaceae	Acetomicrobium	thermoterrenum	Acetomicrobium thermoterrenum (Rees et al. 1997) Ben Hania et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Synergistetes	Synergistia	Synergistales	Synergistaceae	Acetomicrobium	hydrogeniformans	Acetomicrobium hydrogeniformans (Maune and Tanner 2012) Ben Hania et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Cellvibrionaceae	Simiduia	agarivorans	Simiduia agarivorans Shieh et al. 2008	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Thermoanaerobacterales	Family_III	Caldicellulosiruptor	lactoaceticus	Caldicellulosiruptor lactoaceticus Mladenovska et al. 1997	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Thermoanaerobacterales	Family_III	Caldicellulosiruptor	owensensis	Caldicellulosiruptor owensensis Huang et al. 1998	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Thermoanaerobacterales	Family_III	Caldicellulosiruptor	hydrothermalis	Caldicellulosiruptor hydrothermalis Miroshnichenko et al. 2008	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Thermoanaerobacterales	Family_III	Caldicellulosiruptor	kronotskyensis	Caldicellulosiruptor kronotskyensis Miroshnichenko et al. 2008	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Family_XVII	Thermaerobacter	marianensis	Thermaerobacter marianensis Takai et al. 1999	1	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Gramella	forsetii	Gramella forsetii Panschin et al. 2017	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Cellvibrionaceae	Teredinibacter	turnerae	Teredinibacter turnerae Distel et al. 2002	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Cellvibrionaceae	Teredinibacter	turnerae	Teredinibacter turnerae Distel et al. 2002	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Cellvibrionaceae	Teredinibacter	turnerae	Teredinibacter turnerae Distel et al. 2002	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Ignavibacteria	Ignavibacteriales	Melioribacteraceae	Melioribacter	roseus	Melioribacter roseus Podosokorskaya et al. 2013	0	0	1	0	0	0	0	0	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Chthoniobacter	flavus	Chthoniobacter flavus Sangwan et al. 2004	1	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Halobacillus	andaensis	Halobacillus andaensis Wang et al. 2015	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Pleomorphochaeta	multiformis	Pleomorphochaeta multiformis (Miyazaki et al. 2014) Arroua et al. 2017	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia	alni	Frankia alni (Woronin 1866) Von Tubeuf 1895 emend. Nouioui et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia	casuarinae	Frankia casuarinae Nouioui et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia	elaeagni	Frankia elaeagni Nouioui et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Thermoactinomycetaceae	Paludifilum	halophilum	Paludifilum halophilum Frikha-Dammak et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Occallatibacter	riparius	Occallatibacter riparius Foesel et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Occallatibacter	savannae	Occallatibacter savannae Foesel et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Acidobacteria	Acidobacteria	Acidobacteriales	Acidobacteriaceae	Acidipila	dinghuensis	Acidipila dinghuensis Jiang et al. 2016	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	wasatchensis	Lactobacillus wasatchensis Oberg et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Acidithiobacillales	Acidithiobacillaceae	Acidithiobacillus	ferriphilus	Acidithiobacillus ferriphilus FalagÃ¡n and Johnson 2016	0	0	0	0.5	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Comamonas	phosphati	Comamonas phosphati Xie et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Actinobacteria	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Parviterribacter	kavangonensis	Parviterribacter kavangonensis Foesel et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Actinobacteria	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Parviterribacter	multiflagellatus	Parviterribacter multiflagellatus Foesel et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	ectoiniformans	Bacillus ectoiniformans Zhu et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae_1	Haloimpatiens	lingqiaonensis	Haloimpatiens lingqiaonensis Wu et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Shimia	abyssi	Shimia abyssi (Nogi et al. 2016) Wirth and Whitman 2018	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Hymenobacteraceae	Pontibacter	ummariensis	Pontibacter ummariensis Mahato et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Nitrosococcaceae	Inmirania	thermothiophila	Inmirania thermothiophila Slobodkina et al. 2016	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Deltaproteobacteria_Incertae_Sedis	Unknown_Family	Deferrisoma	palaeochoriense	Deferrisoma palaeochoriense PÃ©rez-RodrÃ_guez et al. 2016	0.25	0.25	0	0.25	0.25	0	0	0	0
+Bacteria	Planctomycetes	Planctomycetacia	Isosphaerales	Isosphaeraceae	Paludisphaera	borealis	Paludisphaera borealis Kulichevskaya et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfarculales	Desulfarculaceae	Dethiosulfatarculus	sandiegensis	Dethiosulfatarculus sandiegensis Davidova et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Izhakiella	capsodis	Izhakiella capsodis Aizenberg-Gershtein et al. 2016	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Abyssivirga	alkaniphila	Abyssivirga alkaniphila Schouw et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Thermodesulfobacteriales	Thermodesulfobacteriaceae	Caldimicrobium	thiodismutans	Caldimicrobium thiodismutans Kojima et al. 2016	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Gemmatimonadetes	Longimicrobia	Longimicrobiales	Longimicrobiaceae	Longimicrobium	terrae	Longimicrobium terrae Pascual et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospirillaceae	Magnetospirillum	caucaseum	Magnetospirillum caucaseum Dziuba et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Agromyces	binzhouensis	Agromyces binzhouensis Chen et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobulbaceae	Dissulfurirhabdus	thermomarina	Dissulfurirhabdus thermomarina Slobodkina et al. 2016	0	0.5	0	0.5	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Lawsonella	clevelandensis	Lawsonella clevelandensis Bell et al. 2016	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Acidobacteria	Subgroup_6	Unknown_Order	Unknown_Family	Vicinamibacter	silvestris	Vicinamibacter silvestris Huber et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerotaenia	torta	Anaerotaenia torta Ueki et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerocolumna	cellulosilytica	Anaerocolumna cellulosilytica Ueki et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruthenibacterium	lactatiformans	Ruthenibacterium lactatiformans Shkoporov et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Tepidibacillus	infernus	Tepidibacillus infernus Podosokorskaya et al. 2016	0	0	1	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	ureilytica	Micromonospora ureilytica Carro et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	noduli	Micromonospora noduli Carro et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	vinacea	Micromonospora vinacea Carro et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Acidobacteria	Blastocatellia	Blastocatellales	Pyrinomonadaceae	Brevitalea	aridisoli	Brevitalea aridisoli WÃ_st et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Acidobacteria	Blastocatellia	Blastocatellales	Pyrinomonadaceae	Brevitalea	deliciosa	Brevitalea deliciosa WÃ_st et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Acidobacteria	Blastocatellia	Blastocatellales	Pyrinomonadaceae	Arenimicrobium	luteum	Arenimicrobium luteum WÃ_st et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria_Incertae_Sedis	Unknown_Family	Sulfuriflexus	mobilis	Sulfuriflexus mobilis Kojima and Fukui 2016	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	Varunaivibrio	sulfuroxidans	Varunaivibrio sulfuroxidans Patwardhan and Vetriani 2016	0.2	0.2	0.2	0.2	0.2	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Thiomicrospirales	Thiomicrospiraceae	Thiomicrorhabdus	hydrogeniphila	Thiomicrorhabdus hydrogeniphila (Watsuji et al. 2016) Boden et al. 2017	0.333333333	0	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Thermodesulfobacteriales	Thermodesulfobacteriaceae	Thermodesulfatator	autotrophicus	Thermodesulfatator autotrophicus Lai et al. 2016	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	prati	Sphingomonas prati Manandhar et al. 2016	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfotomaculum	aquiferis	Desulfotomaculum aquiferis Berlendis et al. 2016	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfotomaculum	profundi	Desulfotomaculum profundi Berlendis et al. 2016	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Falcatimonas	natans	Falcatimonas natans Watanabe et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Marinirhabdus	gelatinilytica	Marinirhabdus gelatinilytica Wu et al. 2016	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Lacinutrix	iliipiscaria	Lacinutrix iliipiscaria (Shakeela et al. 2015) Nedashkovskaya et al. 2016	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Hymenobacteraceae	Pontibacter	virosus	Pontibacter virosus Kohli et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Frankiales	Nakamurellaceae	Nakamurella	silvestris	Nakamurella silvestris FranÃ§a et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Raineyella	antarctica	Raineyella antarctica Pikuta et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Hymenobacteraceae	Rufibacter	quisquiliarum	Rufibacter quisquiliarum FelfÃ¶ldi et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Peptococcus	simiae	Peptococcus simiae Shkoporov et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Thermotogae	Thermotogae	Petrotogales	Petrotogaceae	Marinitoga	arctica	Marinitoga arctica Steinsbu et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Acidobacteria	Acidobacteria	Acidobacteriales	Acidobacteriaceae	Acidobacterium	ailaaui	Acidobacterium ailaaui Myers and King 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Thermodesulfitimonas	autotrophica	Thermodesulfitimonas autotrophica Slobodkina et al. 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Rugosibacter	aromaticivorans	Rugosibacter aromaticivorans Corteselli et al. 2017	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Polynucleobacter	wuianus	Polynucleobacter wuianus Hahn et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae	Racemicystis	persica	Racemicystis persica Moradi et al. 2017	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Immundisolibacterales	Immundisolibacteraceae	Immundisolibacter	cernigliae	Immundisolibacter cernigliae Corteselli et al. 2017	1	0	0	0	0	0	0	0	0
+Bacteria	Chloroflexi	Chloroflexia	Chloroflexales	Chloroflexaceae	Chloroflexus	islandicus	Chloroflexus islandicus Gaisin et al. 2017	0.25	0	0.25	0	0.25	0.25	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia	coriariae	Frankia coriariae Nouioui et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Cyclobacteriaceae	Algoriphagus	resistens	Algoriphagus resistens Han et al. 2017	1	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Rhodothermia	Balneolales	Balneolaceae	Rhodohalobacter	halophilus	Rhodohalobacter halophilus Xia et al. 2017	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Beggiatoales	Beggiatoaceae	Beggiatoa	leptomitoformis	Beggiatoa leptomitoformis Dubinina et al. 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Gordonia	hongkongensis	Gordonia hongkongensis Tsang et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	pini	Streptomyces pini Madhaiyan et al. 2016 emend. Nouioui et al. 2018	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Sulfitobacter	faviae	Sulfitobacter faviae Kumari et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Roseomonas	rubra	Roseomonas rubra Subhash et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Martelella	suaedae	Martelella suaedae Chung et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Shinella	curvata	Shinella curvata Subhash and Lee 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Azospirillales	Azospirillaceae	Skermanella	rosea	Skermanella rosea Subhash and Lee 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Thalassotalea	montiporae	Thalassotalea montiporae Chen et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Spongiibacteraceae	Spongiibacter	taiwanensis	Spongiibacter taiwanensis Jean et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Chitinibacteraceae	Chitinibacter	fontanus	Chitinibacter fontanus Sheu et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Lacinutrix	cladophorae	Lacinutrix cladophorae Nedashkovskaya et al. 2016	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Marinifilaceae	Marinifilum	albidiflavum	Marinifilum albidiflavum Xu et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pseudoduganella	danionis	Pseudoduganella danionis KÃ_mpfer et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Jeotgalibacillus	alkaliphilus	Jeotgalibacillus alkaliphilus Srinivas et al. 2016	0.5	0	0.5	0	0	0	0	0	0
+Bacteria	Thermotogae	Thermotogae	Thermotogales	Fervidobacteriaceae	Fervidobacterium	thailandense	Fervidobacterium thailandense Kanoksilapatham et al. 2016	0	0	1	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Aliiroseovarius	zhejiangensis	Pseudoroseovarius zhejiangensis Sun et al. 2015	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Thalassotalea	euphylliae	Thalassotalea euphylliae Sheu et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	bradum	Novosphingobium bradum Sheu et al. 2016	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	pocilloporae	Psychrobacter pocilloporae Zachariah et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	piscinae	Sphingomonas piscinae Chen et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Aquaspirillaceae	Microvirgula	curvata	Microvirgula curvata Subhash et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Marinomonadaceae	Marinomonas	blandensis	Marinomonas blandensis Arahal et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Formosimonas	limnophila	Formosimonas limnophila Chen et al. 2017	0	0	0	0.5	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Spirosomaceae	Flectobacillus	fontis	Flectobacillus fontis Chen et al. 2017	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Aquimarina	versatilis	Aquimarina versatilis Lee et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Pleomorphochaeta	caudata	Pleomorphochaeta caudata Arroua et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Alteromonas	lipolytica	Alteromonas lipolytica Shi et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Methylophilaceae	Methylobacillus	methanolivorans	Methylobacillus methanolivorans Kaparullina et al. 2017	0	0	0	0	0	0	0	1	0
+Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Cyclobacteriaceae	Echinicola	strongylocentroti	Echinicola strongylocentroti Jung et al. 2017	1	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Maripseudobacter	aurantiacus	Maripseudobacter aurantiacus Chen et al. 2017	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	marinimaniae	Colwellia marinimaniae Kusube et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Pleomorphomonadaceae	Chthonobacter	albigriseus	Chthonobacter albigriseus Kim et al. 2017	0	0	0	0	0	0	0	0	1
+Bacteria	Proteobacteria	Gammaproteobacteria	Ectothiorhodospirales	Ectothiorhodospiraceae	Halofilum	ochraceum	Halofilum ochraceum Xia et al. 2017	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Cyclobacteriaceae	Cyclobacterium	amurskyense	Cyclobacterium amurskyense Nedashkovskaya et al. 2005 emend. Hahnke et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	glaciei	Psychrobacter glaciei Zeng et al. 2016	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Chromobacteriaceae	Vogesella	facilis	Vogesella facilis Sheu et al. 2016	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae_3	Sporosalibacterium	tautonense	Sporosalibacterium tautonense Podosokorskaya et al. 2017	0	0	1	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Thermoanaerobacterales	Thermodesulfobiaceae	Thermodesulfobium	acidiphilum	Thermodesulfobium acidiphilum Frolov et al. 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Rectinema	cohabitans	Rectinema cohabitans Koelschbach et al. 2017	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Acidobacteria	Subgroup_6	Unknown_Order	Unknown_Family	Luteitalea	pratensis	Luteitalea pratensis Vieira et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Hydrogenophilaceae	Sulfuritortus	calidifontis	Sulfuritortus calidifontis Kojima et al. 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Archangiaceae	Vitiosangium	subalbum	Vitiosangium subalbum Awal et al. 2017	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Archangiaceae	Vitiosangium	cumulatum	Vitiosangium cumulatum Awal et al. 2017	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae	Flaviaesturariibacter	luteus	Flaviaesturariibacter luteus Pascual et al. 2017	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Marinisporobacter	balticus	Marinisporobacter balticus Vandieken et al. 2017	1	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae_2	Alkaliphilus	namsaraevii	Alkaliphilus namsaraevii Zakharyuk et al. 2017	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Aquificae	Desulfurobacteriia	Desulfurobacteriales	Desulfurobacteriaceae	Desulfurobacterium	indicum	Desulfurobacterium indicum Cao et al. 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	Oligoflexaceae	Silvanigrella	aquatica	Silvanigrella aquatica Hahn et al. 2017	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Saonia	flava	Saonia flava Fagervold et al. 2017	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Oceanispirochaeta	sediminicola	Oceanispirochaeta sediminicola Subhash and Lee 2017	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	senegalensis	Desulfovibrio senegalensis Thioye et al. 2017	1	0	0	0	0	0	0	0	0
+Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Mariniblastus	fucicola	Mariniblastus fucicola Lage et al. 2017	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Chloroflexi	Dehalococcoidia	Dehalococcoidales	Dehalococcoidaceae	Dehalogenimonas	formicexedens	Dehalogenimonas formicexedens Key et al. 2017	0	0	0	0	1	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria_Incertae_Sedis	Unknown_Family	Endothiovibrio	diazotrophicus	Endothiovibrio diazotrophicus Bazylinski et al. 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Hyphobacterium	vulgare	Hyphobacterium vulgare Sun et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Rhodothermaeota	Rhodothermia	Rhodothermales	Salisaetaceae	Longibacter	salinarum	Longibacter salinarum Xia et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Lutimaribacter	marinistellae	Lutimaribacter marinistellae Zhang et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	pocheonensis	Mucilaginibacter pocheonensis Zhao et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	soyangense	Flavobacterium soyangense Nam et al. 2017	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Idiomarinaceae	Aliidiomarina	sedimenti	Aliidiomarina sedimenti Shahinpei et al. 2017	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Thalassotalea	crassostreae	Thalassotalea crassostreae Choi et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Mesorhizobium	helmanticense	Mesorhizobium helmanticense Marcos-GarcÃ_a et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae	Thiorhodococcus	alkaliphilus	Thiorhodococcus alkaliphilus Prathyash Ushus et al. 2017	0.2	0.2	0	0.2	0.2	0.2	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodovibrionales	Kiloniellaceae	Kiloniella	antarctica	Kiloniella antarctica Si et al. 2017	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Anaeromicrobium	sediminis	Anaeromicrobium sediminis Zhang et al. 2017	1	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Chryseomicrobium	palamuruense	Chryseomicrobium palamuruense Pindi et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Cellvibrionaceae	Cellvibrio	japonicus	Cellvibrio japonicus Humphry et al. 2003	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Chloroflexi	Anaerolineae	Thermoflexales	Thermoflexaceae	Thermoflexus	hugenholtzii	Thermoflexus hugenholtzii Dodsworth et al. 2014 emend. Nouioui et al. 2018	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Geodermatophilales	Geodermatophilaceae	Cumulibacter	manganitolerans	Cumulibacter manganitolerans Huang et al. 2017	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	fluminis	Flavobacterium fluminis Ahn et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Dictyobacteraceae	Dictyobacter	aurantiacus	Dictyobacter aurantiacus Yabe et al. 2017	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	piratica	Pseudoalteromonas piratica Beurmann et al. 2017	1	0	0	0	0	0	0	0	0
+Bacteria	Rhodothermaeota	Rhodothermia	Rhodothermales	Salisaetaceae	Natronospira	proteinivora	Natronospira proteinivora Sorokin et al. 2017	0.5	0	0.5	0	0	0	0	0	0
+Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Isosphaeraceae	Tundrisphaera	lichenicola	Tundrisphaera lichenicola Kulichevskaya et al. 2017	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Polynucleobacter	sphagniphilus	Polynucleobacter sphagniphilus Hahn et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacter	azollae	Rhodobacter azollae Suresh et al. 2017	0.333333333	0	0.333333333	0	0	0.333333333	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Amylibacter	cionae	Amylibacter cionae Wang et al. 2017	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	palustris	Vibrio palustris Lucena et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	spartinae	Vibrio spartinae Lucena et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	ipomoeae	Novosphingobium ipomoeae Chen et al. 2017	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerotignum	aminivorans	Anaerotignum aminivorans Ueki et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Aurantimonadaceae	Consotaella	salsifontis	Consotaella salsifontis DÃ_az-CÃ¡rdenas et al. 2017	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Rhodothermia	Rhodothermales	Rhodothermaceae	Longimonas	haloalkaliphila	Longimonas haloalkaliphila Sorokin et al. 2017	0.5	0	0.5	0	0	0	0	0	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Luteolibacter	gellanilyticus	Luteolibacter gellanilyticus Pascual et al. 2017	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Marispirochaeta	aestuarii	Marispirochaeta aestuarii Shivani et al. 2017	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Rhodothermaeota	Rhodothermia	Rhodothermales	Salisaetaceae	Natronotalea	proteinilytica	Natronotalea proteinilytica Sorokin et al. 2017	0.5	0	0.5	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Bukholderiales	Comamonadaceae	Oryzisolibacter	propanilivorax	Oryzisolibacter propanilivorax Vaz-Moreira et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Cribrihabitans	pelagius	Cribrihabitans pelagius Yoon et al. 2016	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Comamonas	sediminis	Comamonas sediminis Subhash et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Variovorax	humicola	Variovorax humicola Nguyen and Kim 2016	0	0.333333333	0	0.333333333	0.333333333	0	0	0	0
+Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	Thermosporothrix	narukonensis	Thermosporothrix narukonensis Yabe et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Idiomarinaceae	Aliidiomarina	iranensis	Aliidiomarina iranensis Amoozegar et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Leeuwenhoekiella	nanhaiensis	Leeuwenhoekiella nanhaiensis Liu et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Saprospiraceae	Membranicola	marinus	Membranicola marinus Li et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	piscinae	Novosphingobium piscinae Sheu et al. 2016	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Paraclostridium	benzoelyticum	Paraclostridium benzoelyticum Sasi Jyothsna et al. 2016	0.333333333	0	0.333333333	0	0.333333333	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	colocasiae	Novosphingobium colocasiae Chen et al. 2016	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodovibrionales	Kiloniellaceae	Tagaea	marina	Tagaea marina Jean et al. 2016	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	Thermostilla	marina	Thermostilla marina Slobodkina et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Tianweitania	sediminis	Tianweitania sediminis Han et al. 2016	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	fontis	Novosphingobium fontis Sheu et al. 2017	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	mangrovi	Paracoccus mangrovi Chen et al. 2017	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	wadenswilerensis	Pseudomonas wadenswilerensis Frasson et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	reidholzensis	Pseudomonas reidholzensis Frasson et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Henriciella	barbarensis	Henriciella barbarensis Abraham et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Henriciella	algicola	Henriciella algicola Abraham et al. 2017	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Planktosalinus	lacus	Planktosalinus lacus Zhong et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Psychroflexus	salis	Psychroflexus salis Zhong et al. 2016	1	0	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia	asymbiotica	Frankia asymbiotica Nouioui et al. 2017	0.333333333	0	0.333333333	0	0.333333333	0	1	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Frondibacter	mangrovi	Frondibacter mangrovi Yoon et al. 2017	0.5	0	0	0	0.5	0	0	0	0
+Bacteria	Actinobacteria	Nitriliruptoria	Nitriliruptorales	Nitriliruptoraceae	Egicoccus	halophilus	Egicoccus halophilus Zhang et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Flammeovirgaceae	Fabivirga	thermotolerans	Fabivirga thermotolerans Tang et al. 2016	0	0	0.5	0	0.5	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Actibacterium	pelagium	Actibacterium pelagium Guo et al. 2017	0	0	0.5	0	0.5	0	0	0	0

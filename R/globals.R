@@ -1,0 +1,1 @@
+utils::globalVariables(c("Taxon", "assay", "colData", "dasva", "heatmap_condition_df", "kingdom", "link_guilds", "mcols", "metadata", "original_dir", "pval", "rld", "rowVars", "targeted_analysis_dir", "taxo", "threshold"))
