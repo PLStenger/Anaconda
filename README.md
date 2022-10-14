@@ -37,4 +37,7 @@ Targeted differential and global enrichment analysis of taxonomic rank by shared
 ## Other database that need to be downloaded (that were to heavy to be put directly in the R package):
 
 - taxonomy_all_metazoan_QIIME2_and_NCBI_format.txt
-https://www.dropbox.com/s/qpnkhmvskardlt7/taxonomy_all_metazoan_QIIME2_and_NCBI_format.txt?dl=0    
+https://www.dropbox.com/s/qpnkhmvskardlt7/taxonomy_all_metazoan_QIIME2_and_NCBI_format.txt?dl=0  
+
+- ncbitaxon_ontology.obo
+https://www.dropbox.com/s/m74cxd46wk31w53/ncbitaxon_ontology.obo?dl=0
