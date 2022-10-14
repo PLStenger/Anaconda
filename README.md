@@ -39,5 +39,12 @@ Targeted differential and global enrichment analysis of taxonomic rank by shared
 - taxonomy_all_metazoan_QIIME2_and_NCBI_format.txt
 https://www.dropbox.com/s/qpnkhmvskardlt7/taxonomy_all_metazoan_QIIME2_and_NCBI_format.txt?dl=0  
 
+- taxonomy_all_bacteria_QIIME2_and_NCBI_format.txt
+https://www.dropbox.com/s/hzu31gm5ivvh3cu/taxonomy_all_bacteria_QIIME2_and_NCBI_format.txt?dl=0
+
+- taxonomy_all_fungi_QIIME2_and_NCBI_format.txt
+https://www.dropbox.com/s/yulal8i56ewcv45/taxonomy_all_fungi_QIIME2_and_NCBI_format.txt?dl=0
+
+## Files that are not necessary for classical analysis, but I created it if you wanted to created a new database
 - ncbitaxon_ontology.obo
 https://www.dropbox.com/s/m74cxd46wk31w53/ncbitaxon_ontology.obo?dl=0
