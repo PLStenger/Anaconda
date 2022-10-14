@@ -10,7 +10,7 @@ DOI: 10.13140/RG.2.2.11117.67048
 ## Install from CRAN:
 `install.packages("Anaconda")`
 
-## Install from Github: (much more up to date)
+## Install from Github:
 
     install.packages("devtools")
     library(devtools)
