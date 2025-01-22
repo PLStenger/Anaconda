@@ -8,6 +8,16 @@ DOI: 10.13140/RG.2.2.11117.67048
 
 <div style="text-align: center;"> <img src="https://github.com/PLStenger/Anaconda/Stenger_2022b.png" style="width: 400px; height: auto;"> </div>
 
+## Official publication in PlosOne:
+
+[Download paper here](https://doi.org/10.1371/journal.pone.0311986)
+
+Recommended citation: 'Stenger PL., Léopold A., Dinh K., Mournet P., Robert N., Drouin J., Wamejonengo J., Russet S., Ibanez T., Maggia L., Carriconde F. (2025). Advancing biomonitoring of eDNA studies with the Anaconda R package: Integrating soil and One Health perspectives in the face of evolving traditional agriculture practices. PLOS ONE, 20(1), e0311986, https://doi.org/10.1371/journal.pone.0311986'
+
+and
+
+'Stenger P-L. The R Package “Anaconda”: Targeted Differential and Global Enrichment Analysis of Taxonomic Rank by Shared Asvs. CRAN; 2022. pp. 1–28. http://doi.org/10.13140/RG.2.2.11117.67048'
+
 ## Install from CRAN:
 `install.packages("Anaconda")`
 
