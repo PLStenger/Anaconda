@@ -6,7 +6,7 @@ ANACONDA : tArgeted differeNtial and globAl enriChment analysis of taxOnomic raN
 	
 DOI: 10.13140/RG.2.2.11117.67048
 
-<div style="text-align: center;"> <img src="https://github.com/PLStenger/Anaconda/Stenger_2022b.png" style="width: 400px; height: auto;"> </div>
+<div style="text-align: center;"> <img src="/Stenger_2022b.png" style="width: 400px; height: auto;"> </div>
 
 ## Official publication in PlosOne:
 
