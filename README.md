@@ -32,7 +32,10 @@ and
     # Run:
     .rs.restartR()
     
- 
+## Running
+
+Please run the 'Anaconda.R' file and follow the script. Download the necessary database before (please see below).
+
 ## Why this name ?
 
 ANACONDA: tArgeted differeNtial and globAl enriChment analysis of taxOnomic raNk by shareD Asvs
