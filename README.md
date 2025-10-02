@@ -17,13 +17,19 @@
 
 ## Official Publication
 
-ðŸ“– **[Download paper from PLOS ONE](https://doi.org/10.1371/journal.pone.0311986)**
+– **[Download paper from PLOS ONE](https://doi.org/10.1371/journal.pone.0311986)**
+
+## Other publications that used Anaconda for example:
+
+– **[See here for skin dugong (marine mammal) microbiome publication (2025)](https://doi.org/10.1371/journal.pone.0311986)**
+– **[See here for a multimarker study in a coral reef biotope (2025)](https://link.springer.com/article/10.1007/s00248-025-02495-3)**
+
 
 ### Citation
 
 **Primary citation:**
 ```
-Stenger PL., LÃ©opold A., Dinh K., Mournet P., Robert N., Drouin J., Wamejonengo J., 
+Stenger PL., Léopold A., Dinh K., Mournet P., Robert N., Drouin J., Wamejonengo J., 
 Russet S., Ibanez T., Maggia L., Carriconde F. (2025). Advancing biomonitoring of eDNA 
 studies with the Anaconda R package: Integrating soil and One Health perspectives in the 
 face of evolving traditional agriculture practices. PLOS ONE, 20(1), e0311986.
@@ -82,12 +88,12 @@ The package operates in **two main steps**:
 
 ## Key Features
 
-- ðŸ§¬ **Multi-kingdom support**: Fungi, Bacteria, Metazoan
-- ðŸ“ˆ **Statistical robustness**: Negative binomial modeling for count data
-- ðŸŒ³ **Taxonomic hierarchy**: Analysis across all taxonomic ranks
-- ðŸŽ¨ **Rich visualizations**: Heatmaps, PCA plots, MA plots, taxonomic trees
-- ðŸ”— **Database integration**: FunGuild and Bactotraits databases
-- ðŸ“ **Automated organization**: Creates structured output folders and files
+- **Multi-kingdom support**: Fungi, Bacteria, Metazoan
+- **Statistical robustness**: Negative binomial modeling for count data
+- **Taxonomic hierarchy**: Analysis across all taxonomic ranks
+- **Rich visualizations**: Heatmaps, PCA plots, MA plots, taxonomic trees
+- **Database integration**: FunGuild and Bactotraits databases
+- **Automated organization**: Creates structured output folders and files
 
 ---
 
@@ -292,8 +298,8 @@ taxon_mwuPlot_guilds(
 
 ## System Requirements
 
-- **R version**: â‰¥ 3.5.0
-- **Python**: â‰¥ 2.7 (for FunGuild functionality)
+- **R version**: 3.5.0
+- **Python**: 2.7 (for FunGuild functionality)
 - **Perl**: Required for global analysis (recommend [Strawberry Perl](https://strawberryperl.com))
 
 ---
