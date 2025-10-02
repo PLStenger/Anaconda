@@ -1,82 +1,340 @@
-# ðŸ Anaconda
+# Anaconda
 
-
-[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/Anaconda)](https://cran.r-project.org/package=Anaconda) [![CRAN_Release_Date](https://www.r-pkg.org/badges/ago/Anaconda)](https://cran.r-project.org/package=Anaconda)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/Anaconda)](https://cran.r-project.org/package=Anaconda) 
+[![CRAN_Release_Date](https://www.r-pkg.org/badges/ago/Anaconda)](https://cran.r-project.org/package=Anaconda)
 [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/Anaconda)](https://cran.r-project.org/package=Anaconda)
 
-# Anaconda
-ANACONDA : tArgeted differeNtial and globAl enriChment analysis of taxOnomic raNk by shareD Asvs
-	
-DOI: 10.13140/RG.2.2.11117.67048
+> **tArgeted differeNtial and globAl enriChment analysis of taxOnomic raNk by shareD Asvs**
 
-<div style="text-align: center;"> <img src="/Stenger_2022b.png" style="width: 250px; height: auto;"> </div>
+<div align="center">
+  <img src="/Stenger_2022b.png" width="250" alt="Anaconda package logo">
+  <br><br>
+  
+  **DOI:** [10.13140/RG.2.2.11117.67048](https://doi.org/10.13140/RG.2.2.11117.67048)
+</div>
 
-## Official publication in PlosOne:
+---
 
-[Download paper here](https://doi.org/10.1371/journal.pone.0311986)
+## Official Publication
 
-Recommended citation: 'Stenger PL., Léopold A., Dinh K., Mournet P., Robert N., Drouin J., Wamejonengo J., Russet S., Ibanez T., Maggia L., Carriconde F. (2025). Advancing biomonitoring of eDNA studies with the Anaconda R package: Integrating soil and One Health perspectives in the face of evolving traditional agriculture practices. PLOS ONE, 20(1), e0311986, https://doi.org/10.1371/journal.pone.0311986'
+ðŸ“– **[Download paper from PLOS ONE](https://doi.org/10.1371/journal.pone.0311986)**
 
-and
+### Citation
 
-'Stenger P-L. The R Package “Anaconda”: Targeted Differential and Global Enrichment Analysis of Taxonomic Rank by Shared Asvs. CRAN; 2022. pp. 1–28. http://doi.org/10.13140/RG.2.2.11117.67048'
+**Primary citation:**
+```
+Stenger PL., LÃ©opold A., Dinh K., Mournet P., Robert N., Drouin J., Wamejonengo J., 
+Russet S., Ibanez T., Maggia L., Carriconde F. (2025). Advancing biomonitoring of eDNA 
+studies with the Anaconda R package: Integrating soil and One Health perspectives in the 
+face of evolving traditional agriculture practices. PLOS ONE, 20(1), e0311986.
+https://doi.org/10.1371/journal.pone.0311986
+```
 
-## Install from CRAN:
-`install.packages("Anaconda")`
+**Package citation:**
+```
+Stenger P-L. The R Package "Anaconda": Targeted Differential and Global Enrichment 
+Analysis of Taxonomic Rank by Shared Asvs. CRAN; 2022. pp. 1â€“28. 
+http://doi.org/10.13140/RG.2.2.11117.67048
+```
 
-## Install from Github:
+---
 
-    install.packages("devtools")
-    library(devtools)
-    install_github("PLStenger/Anaconda")
-    library("Anaconda")
+## Installation
 
-    # If "Error in fetch(key) : lazy-load database "
-    # Run:
-    .rs.restartR()
-    
-## Running
+### From CRAN (Recommended)
+```r
+install.packages("Anaconda")
+```
 
-Please run the 'Anaconda.R' file and follow the script. Download the necessary database before (please see below).
+### From GitHub (Development version)
+```r
+install.packages("devtools")
+library(devtools)
+install_github("PLStenger/Anaconda")
+library("Anaconda")
 
-## Why this name ?
+# If you encounter "Error in fetch(key) : lazy-load database" 
+# Run:
+.rs.restartR()
+```
 
-ANACONDA: tArgeted differeNtial and globAl enriChment analysis of taxOnomic raNk by shareD Asvs
+---
 
-## What is it ?
- 
-Targeted differential and global enrichment analysis of taxonomic rank by shared ASVs (Amplicon Sequence Variant), for high-throughput eDNA sequencing of fungi, bacteria, and metazoan.
-    Actually works in two steps: I) Targeted differential analysis from QIIME2 data and II) Global analysis by Taxon Mann-Whitney U test analysis from targeted analysis (I)
-    (I) Estimate variance-mean dependence in count/abundance ASVs data from high-throughput sequencing assays and test for differential represented ASVs based on a model using the negative binomial distribution.
-    (II) NCBITaxon_MWU uses continuous measure of significance (such as fold-change or -log(p-value)) to identify NCBITaxon that are significantly enriches with either up- or down-represented ASVs. If the measure is binary (0 or 1) the script will perform a typical 'NCBITaxon enrichment' analysis based Fisher's exact test: it will show NCBITaxon over-represented among the ASVs that have 1 as their measure. On the plot, different fonts are used to indicate significance and color indicates enrichment with either up (red) or down (blue) regulated ASVs. No colors are shown for binary measure analysis. The tree on the plot is hierarchical clustering of NCBITaxon based on shared ASVs. Categories with no branch length between them are subsets of each other. The fraction next to the category name indicates the fraction of 'good' ASVs in it; 'good' ASVs are the ones exceeding the arbitrary absValue cutoff (option in taxon_mwuPlot()). For Fisher's based test, specify absValue=0.5. This value does not affect statistics and is used for plotting only. The original idea was for genes differential expression analysis from Wright et al (2015) <doi:10.1186/s12864-015-1540-2>; adapted here for taxonomic analysis.
-    The 'Anaconda' package makes it possible to carry out these analyses by automatically creating several graphs and tables and storing them in specially created subfolders. You will need your QIIME2 pipeline output for each kingdom (eg; Fungi and/or Bacteria and/or Metazoan): i) taxonomy.tsv, ii) taxonomy_RepSeq.tsv, iii) ASV.tsv and iv) SampleSheet_comparison.txt (the latter being created by you).  
-    
-## Other database that need to be downloaded (that were to heavy to be put directly in the R package):
+## What is Anaconda?
 
-- taxonomy_all_metazoan_QIIME2_and_NCBI_format.txt
-https://www.dropbox.com/s/qpnkhmvskardlt7/taxonomy_all_metazoan_QIIME2_and_NCBI_format.txt?dl=0  
+**Anaconda** is an R package designed for **targeted differential and global enrichment analysis** of taxonomic ranks using shared ASVs (Amplicon Sequence Variants). It supports high-throughput eDNA sequencing analysis of **fungi**, **bacteria**, and **metazoan**.
 
-- taxonomy_all_bacteria_QIIME2_and_NCBI_format.txt
-https://www.dropbox.com/s/hzu31gm5ivvh3cu/taxonomy_all_bacteria_QIIME2_and_NCBI_format.txt?dl=0
+### Analysis Workflow
 
-- taxonomy_all_fungi_QIIME2_and_NCBI_format.txt
-https://www.dropbox.com/s/yulal8i56ewcv45/taxonomy_all_fungi_QIIME2_and_NCBI_format.txt?dl=0
+The package operates in **two main steps**:
 
-## Files that are not necessary for classical analysis, but I created it if you wanted to created a new database
-- ncbitaxon_ontology.obo
-https://www.dropbox.com/s/m74cxd46wk31w53/ncbitaxon_ontology.obo?dl=0
+#### **Step I: Targeted Differential Analysis** 
+- Uses QIIME2 data with **DESeq2 algorithm**
+- Estimates variance-mean dependence in count/abundance ASV data
+- Tests for differential represented ASVs using **negative binomial distribution**
 
+#### **Step II: Global Enrichment Analysis**
+- **Taxon Mann-Whitney U test** analysis from targeted analysis results
+- Uses continuous significance measures (fold-change or -log(p-value))
+- Identifies taxonomic ranks significantly enriched with up/down-represented ASVs
 
-## More details here:
+---
 
-Targeted and Global analysis by Anaconda R package for high-throughput eDNA sequencing data methods.
+## Key Features
 
-The R functions created for ‘tArgeted differeNtial and globAl enriChment analysis of taxOnomic raNk by shareD Asvs’ (ANACONDA) were bottled into a R package and submitted and then published to CRAN for code review and a better use by third parties (Stenger, 2022).
+- ðŸ§¬ **Multi-kingdom support**: Fungi, Bacteria, Metazoan
+- ðŸ“ˆ **Statistical robustness**: Negative binomial modeling for count data
+- ðŸŒ³ **Taxonomic hierarchy**: Analysis across all taxonomic ranks
+- ðŸŽ¨ **Rich visualizations**: Heatmaps, PCA plots, MA plots, taxonomic trees
+- ðŸ”— **Database integration**: FunGuild and Bactotraits databases
+- ðŸ“ **Automated organization**: Creates structured output folders and files
 
-This package has been created based on the date presented in this paper and was originally created for high-throughput eDNA sequencing analysis, but can be used for more classical ecological studies (see below with Plantae and Nematoda data). This works in two steps: (1) Targeted differential analysis from QIIME2 data by DeSeq2 algorithm and (2) Global analysis by Taxon Mann-Whitney U test analysis from targeted analysis (1). This integrate also FunGuild (Nguyen et al., 2016), and Bactotraits (Cébron et al., 2021) databases. For using FunGuild, Python V. > 2.7 is required.
+---
 
-For the first step (I), Anaconda R package estimate variance-mean dependence in count/abundance ASVs data from high-throughput sequencing assays and test for differential represented ASVs (through the comparison of previously explained conditions, here in our case, it’s F vs. LF, F vs. SF, and SF vs. LF) based on a model using the negative binomial distribution as in (Love et al., 2014) for transcriptomic data (but instead of having gene expressions, we have an abundance of species). This step therefore focuses on whether there is over- or under-representation of specific species in one condition compared to another in a significant way. After downloaded the R package on CRAN (https://cran.r-project.org/web/packages/Anaconda/index.html) or in its GitHub mirror (https://github.com/PLStenger/Anaconda), load it in your R environment, and save it into an R object with the command original_dir= getwd(). In this environment (directly in the root of your folder with the R script), add the QIIME2 files (e.g., i) ‘ASV.tsv’ that is the list of ASVs abundance for each of your samples created by the QIIME2 pipeline, ii) ‘taxonomy.tsv’ which is the file with the listed taxonomy-ASV key for the rarefied dataset created by the QIIME2 pipeline (will be useful for Global analysis (II)); iii) ‘taxonomy_RepSeq.tsv’ which is similar to the previous file, but from the representative sequences QIIME2 step (will be useful for Global analysis (II)), and finally an handmade file named iv) ‘SampleSheet_comparison.txt’. This last file is composed of three columns, with the first column the name of your samples (here, ‘F1’, ‘F2’, ‘F3’, etc.), the second, the name of your sample with ‘input_’ before the sample name and finished by the .txt extension (this will create latter one .txt file by sample) here, ‘input_F1.txt’, ‘input_F2.txt’, ‘input_F3.txt’, etc.), and the third column with the corresponding condition (here, ‘F’, ‘LF’, or ‘SF’)). Analysis needs to be run kingdom by kingdom. Then, run the corresponding kingdom function (Fungi(), or Bacteria(), this create a new folder in your environment named from the corresponding kingdom. Set your working directory into it (example setwd("Fungi")), remember the path into an R object with kingdom <- getwd(). Run the function move_files() for moving the four files in the corresponding folder. Run taxo <- get_input_files(), this will create sub-directory "01_Targeted_analysis" if not already exist and then, create one file by condition into it, and then this upload the taxonomy file. Run setwd("01_Targeted_analysis") for going into this working directory, then run targeted_analysis_dir= getwd() for integrate path to current directory containing these count files into ‘targeted_analysis_dir’ R object. Now, imports conditions information from the ‘SampleSheet_comparison.txt’ with target_file <- target_file() and samplesInfo <- samplesInfo(). Integrate the minimum of ASVs value across samples you want to kept with a threshold R object, like threshold=1 in our case. After that, dASVa object (differential ASV abundance object) needs to be created to be fit on a Gamma-Poisson Generalized Linear Model (dispersion estimates for Negative Binomial distributed data), with the function dasva <- get_dasva(fitType="parametric") (local, and mean fitType are also available). The dispersion plot and the sparsity plot can be check with the plotDispASVs(dasva) and plotSparsityASV(dasva) functions respectively. A PCA is obtainable with the function data <- PCA_data_dasva() and the data object can be used with ggplot2. A clustered heatmap of 75 most abundant ASVs with Euclidean distance with average clustering method is available with the pheatmap()  function after running log2.norm.counts <- heatmap_data_dasva() ; colnames(log2.norm.counts) <- NULL ; heatmap_condition_df <- heatmap_condition(), whereas a simple dendrogram clustering can be obtained with this code hh <- hclust(dist(t(log2.norm.counts), method = "euclidean"), method = "average"). For the differential ASV abundance (dASVa) analysis, use the results() function with a Bonferroni adjustment p-value and precise the condition that’s need to be compared (as an example : res_forest_vs_long_fallow <- results(dasva,contrast=c("condition","F","LF"), pAdjustMethod = "BH", alpha=0.01)). The corresponding taxonomy can be added and put in a text file with this code as an example write.table(merge(data.frame(res_forest_vs_long_fallow), taxo, by.x="row.names", by.y="Feature.ID"),"Table_res_forest_vs_long_fallow_taxonomy.txt", sep="\t"). For adding FunGuilds for Fungi, run res_forest_vs_long_fallow_guilds <- funguild_input_targeted(res_forest_vs_long_fallow) ; get_funguilds_targeted(res_forest_vs_long_fallow_guilds). For adding Bactotrait, run get_bactotraits_targeted(res_forest_vs_long_fallow). Finally, MA plots are disponible with the plotMA.dasva(res_forest_vs_long_fallow, alpha=0.01) function.
+## Required External Databases
 
-For the second step, the Global analysis (II) by Taxon Mann-Whitney U test analysis will use the results of targeted analysis. This step is not specifically focalised on a species level that are over- or under-represented in a condition (like step I), but all taxonomic rank (e.g., Phylum, Class, Order, Family, Genus and Species). For this analysis, Perl (strawberry) is needed to be install in your computer (see https://strawberryperl.com). For this second step, more files are needed and can be download here https://github.com/PLStenger/Anaconda and put into a ‘Working_scripts’ folder. The first of these file, the ncbitaxon_ontology.obo, is an NCBI organismal classification file adapted for the Anaconda R package (the protocol for obtained this file is keep in the Anaconda GitHub, under ‘00_protocol_for_obtain_taxon_NCBI_list.sh’ file), originally based from (Kuśnierczyk, 2008). The others files are a correspondence for Fungi, and Bacteria QIIME2 code to NCBI Taxon code. Here, the Mann-Whitney U (MWU) test analysis is realised on the correspondence of their NCBI Taxon among their analogous database (NCBITaxon_MWU). This NCBITaxon_MWU uses continuous measure of significance (such as fold-change or -log(p-value)) to identify NCBITaxon that are significantly enriches with either up- or down-represented ASVs. If the measure is binary (0 or 1) the script will perform a typical 'NCBITaxon enrichment' analysis-based Fisher's exact test: it will show NCBITaxon over-represented among the ASVs that have 1 as their measure. On the plot, different fonts are used to indicate significance and color indicates enrichment with either up (red) or down (blue) regulated ASVs. No colors are shown for binary measure analysis. The tree on the plot is hierarchical clustering of NCBITaxon based on shared ASVs. Categories that do not have any branch length separating them are included within one another. The fraction next to the category name indicates the fraction of 'good' ASVs in it; 'good' ASVs are the ones exceeding the arbitrary absValue cutoff (option in taxon_mwuPlot()). For Fisher's based test, specify absValue=0.5. This value does not affect statistics and is used for plotting only. The original idea was for genes differential expression analysis from (Wright et al., 2015) adapted here for taxonomic analysis (except that instead of having different functional categories of genes, we have different taxonomic ranks). This step is relevant if there is a consequent amount of data, and in order to hook a group of species that are taxonomically similar and present in a significant quantity in a condition. For run this analysis, after running the targeted analysis (I) precise the working directory of your kingdom by running setwd(kingdom). Then, create a specific annotation database from your data with database_fungi_creation() or database_bacteria_creation(). The first will created a ‘database_fungi_package_all.tab’ annotation file and the second ‘database_bacteria_package_all.tab’ annotation file. Put the database into an R object like this (as an example) taxon_Annotations="database_fungi_package_all.tab". Set the working directory in the newly created folder with setwd("02_Global_analysis"). Then, create your input files with 
-input_res_forest_vs_long_fallow <- input_global_analysis(res_forest_vs_long_fallow) and print it into a text file with write.table(input_res_forest_vs_long_fallow, "input_res_forest_vs_long_fallow.txt", sep=",", quote = FALSE, row.names=FALSE). Precise in an R object that will be the input with input="input_res_forest_vs_short_fallow.txt". The ncbitaxon_ontology.obo is needed here with the aim of finding taxonomic similarities between species, precise it with taxon_Database=file.path(original_dir, paste("Working_scripts/ncbitaxon_ontology.obo", sep="")) taxon_Database=file.path(original_dir, paste("Working_scripts/ncbitaxon_ontology.obo", sep="")). For running the MWU test, run taxon_mwuStats_res <- taxon_mwuStats(input, taxon_Database, taxon_Annotations, TR, perlPath="perl", largest=0.1,  smallest=1, clusterCutHeight=0.1). The parameter ‘largest’ is corresponding to a NCBITaxon terms will not be considered if it contains more than this fraction of the total number of ASVs, and the parameter ‘smallest’ is a NCBITaxon terms contain at least this many ASVs to be considered. Finally, the results can be checked on the .csv files created and visually with the function taxon_mwuPlot(input, taxon_Annotations, taxon_Division, absValue= -log(0.05,10), level1=0.1, level2=0.05, level3=0.01, txtsize=1.2, treeHeight=0.5). The ‘absValue’ parameter is a number of ASVs with the measure value exceeding this will be counted as "good ASVs". Specify ‘absValue=0.5’ if you are doing Fisher's exact test for standard NCBITaxon terms enrichment. The ‘level1’ parameter is the FDR threshold for plotting. The ‘level2’ parameter is the FDR cutoff to print in regular (not italic) font in the plot. The ‘level3’ parameter is the FDR cutoff to print in large bold font in the plot. The ‘treeHeight’ parameter is the height of the hierarchical clustering tree. For Fungi, the Fungi guilds can be added with an extra step, by running taxon_list <- taxon_mwu_list(input,taxon_Annotations,taxon_Division) and then taxon_list_drawer <- get_taxon_list_drawer(taxon_list), followed by funguilds <- get_funguilds(taxon_list_drawer) and finally link_guilds <- get_link_guilds(taxon_list, funguilds). Run the plot with taxon_mwuPlot_guilds(input,taxon_Annotations,taxon_Division, absValue= -log(0.05,10), level1=0.1, level2=0.05, level3=0.01, txtsize=1.2, treeHeight=0.5).
+> **Note**: These files are too large for the R package and must be downloaded separately.
 
+### Download Links
+
+| Kingdom | File | Download Link |
+|---------|------|---------------|
+| **Metazoan** | `taxonomy_all_metazoan_QIIME2_and_NCBI_format.txt` | [Download](https://www.dropbox.com/s/qpnkhmvskardlt7/taxonomy_all_metazoan_QIIME2_and_NCBI_format.txt?dl=0) |
+| **Bacteria** | `taxonomy_all_bacteria_QIIME2_and_NCBI_format.txt` | [Download](https://www.dropbox.com/s/hzu31gm5ivvh3cu/taxonomy_all_bacteria_QIIME2_and_NCBI_format.txt?dl=0) |
+| **Fungi** | `taxonomy_all_fungi_QIIME2_and_NCBI_format.txt` | [Download](https://www.dropbox.com/s/yulal8i56ewcv45/taxonomy_all_fungi_QIIME2_and_NCBI_format.txt?dl=0) |
+
+### Optional Database Files
+
+| File | Purpose | Download Link |
+|------|---------|---------------|
+| `ncbitaxon_ontology.obo` | Custom database creation | [Download](https://www.dropbox.com/s/m74cxd46wk31w53/ncbitaxon_ontology.obo?dl=0) |
+
+---
+
+## Input Files Required
+
+Before running Anaconda, prepare these **4 essential files** from your QIIME2 pipeline:
+
+| File | Description |
+|------|-------------|
+| `ASV.tsv` | ASV abundance table for all samples |
+| `taxonomy.tsv` | Taxonomy-ASV mapping (rarefied dataset) |
+| `taxonomy_RepSeq.tsv` | Taxonomy-ASV mapping (representative sequences) |
+| `SampleSheet_comparison.txt` | **User-created** sample metadata file |
+
+### SampleSheet_comparison.txt Format
+
+```txt
+Sample_Name    Input_File         Condition
+F1             input_F1.txt       F
+F2             input_F2.txt       F
+F3             input_F3.txt       F
+LF1            input_LF1.txt      LF
+LF2            input_LF2.txt      LF
+SF1            input_SF1.txt      SF
+```
+
+---
+
+## Quick Start Guide
+
+### Basic Setup
+```r
+library(Anaconda)
+
+# Save original directory
+original_dir <- getwd()
+
+# Place your 4 input files in the working directory
+```
+
+### Choose Your Kingdom
+```r
+# Run analysis for specific kingdom
+Fungi()          # For fungal analysis
+# OR
+Bacteria()       # For bacterial analysis
+```
+
+### Organize Files
+```r
+# Move into kingdom directory
+setwd("Fungi")  # or "Bacteria"
+kingdom <- getwd()
+
+# Move input files to kingdom folder
+move_files()
+```
+
+### Targeted Analysis (Step I)
+```r
+# Prepare taxonomy and create input files
+taxo <- get_input_files()
+setwd("01_Targeted_analysis")
+targeted_analysis_dir <- getwd()
+
+# Import sample information
+target_file <- target_file()
+samplesInfo <- samplesInfo()
+
+# Set minimum ASV threshold
+threshold <- 1
+
+# Create differential ASV abundance object
+dasva <- get_dasva(fitType="parametric")
+
+# Quality control plots
+plotDispASVs(dasva)      # Dispersion plot
+plotSparsityASV(dasva)   # Sparsity plot
+
+# PCA analysis
+data <- PCA_data_dasva()
+# Use 'data' object with ggplot2 for custom PCA plots
+
+# Heatmap of top 75 most abundant ASVs
+log2.norm.counts <- heatmap_data_dasva()
+colnames(log2.norm.counts) <- NULL
+heatmap_condition_df <- heatmap_condition()
+pheatmap(log2.norm.counts, annotation_col = heatmap_condition_df)
+```
+
+### Differential Analysis
+```r
+# Compare conditions (example: Forest vs Long Fallow)
+res_forest_vs_long_fallow <- results(
+  dasva, 
+  contrast = c("condition", "F", "LF"), 
+  pAdjustMethod = "BH", 
+  alpha = 0.01
+)
+
+# Export results with taxonomy
+write.table(
+  merge(data.frame(res_forest_vs_long_fallow), taxo, 
+        by.x="row.names", by.y="Feature.ID"),
+  "Table_res_forest_vs_long_fallow_taxonomy.txt", 
+  sep="\t"
+)
+
+# Add functional annotations (Fungi only)
+res_forest_vs_long_fallow_guilds <- funguild_input_targeted(res_forest_vs_long_fallow)
+get_funguilds_targeted(res_forest_vs_long_fallow_guilds)
+
+# Add Bactotraits (Bacteria only)
+get_bactotraits_targeted(res_forest_vs_long_fallow)
+
+# Create MA plot
+plotMA.dasva(res_forest_vs_long_fallow, alpha=0.01)
+```
+
+### Global Analysis (Step II)
+```r
+# Return to kingdom directory
+setwd(kingdom)
+
+# Create annotation database
+database_fungi_creation()     # For fungi
+# OR
+database_bacteria_creation()  # For bacteria
+
+# Set database path
+taxon_Annotations <- "database_fungi_package_all.tab"  # Adjust for bacteria
+
+# Move to global analysis directory
+setwd("02_Global_analysis")
+
+# Prepare input for MWU test
+input_res_forest_vs_long_fallow <- input_global_analysis(res_forest_vs_long_fallow)
+write.table(
+  input_res_forest_vs_long_fallow, 
+  "input_res_forest_vs_long_fallow.txt", 
+  sep=",", quote = FALSE, row.names=FALSE
+)
+
+# Set paths
+input <- "input_res_forest_vs_long_fallow.txt"
+taxon_Database <- file.path(original_dir, "Working_scripts/ncbitaxon_ontology.obo")
+
+# Run Mann-Whitney U test
+taxon_mwuStats_res <- taxon_mwuStats(
+  input, taxon_Database, taxon_Annotations, 
+  TR, perlPath="perl", 
+  largest=0.1, smallest=1, clusterCutHeight=0.1
+)
+
+# Generate taxonomic tree plot
+taxon_mwuPlot(
+  input, taxon_Annotations, taxon_Division, 
+  absValue= -log(0.05,10), 
+  level1=0.1, level2=0.05, level3=0.01, 
+  txtsize=1.2, treeHeight=0.5
+)
+```
+
+### Enhanced Fungi Analysis (Optional)
+```r
+# Add FunGuild information to taxonomic analysis
+taxon_list <- taxon_mwu_list(input, taxon_Annotations, taxon_Division)
+taxon_list_drawer <- get_taxon_list_drawer(taxon_list)
+funguilds <- get_funguilds(taxon_list_drawer)
+link_guilds <- get_link_guilds(taxon_list, funguilds)
+
+# Plot with guild information
+taxon_mwuPlot_guilds(
+  input, taxon_Annotations, taxon_Division, 
+  absValue= -log(0.05,10), 
+  level1=0.1, level2=0.05, level3=0.01, 
+  txtsize=1.2, treeHeight=0.5
+)
+```
+
+---
+
+## System Requirements
+
+- **R version**: â‰¥ 3.5.0
+- **Python**: â‰¥ 2.7 (for FunGuild functionality)
+- **Perl**: Required for global analysis (recommend [Strawberry Perl](https://strawberryperl.com))
+
+---
+
+## Getting Started
+
+1. **Download** the main script `Anaconda.R`
+2. **Follow** the step-by-step workflow in the script
+3. **Download** required taxonomy databases before analysis
+4. **Ensure** all system requirements are installed
+
+---
+
+## Scientific Background
+
+The Anaconda package adapts differential expression analysis methods (originally from Wright et al., 2015) for taxonomic analysis of high-throughput sequencing data. Instead of analyzing gene expression differences, Anaconda focuses on:
+
+- **ASV abundance differences** between experimental conditions
+- **Taxonomic enrichment** across hierarchical levels
+- **Functional annotations** through established databases
+
+This approach enables researchers to identify not just individual species differences, but broader taxonomic patterns that may indicate ecological shifts or functional changes in microbial communities.
+
+---
+
+## Contributing
+
+Found a bug or have suggestions? Please visit our [GitHub repository](https://github.com/PLStenger/Anaconda) to:
+- Report issues
+- Suggest improvements  
+- Contribute code
+- Access development protocols
+
+---
+
+## License
+
+This package is distributed under standard CRAN licensing terms. See the DESCRIPTION file for details.
+
+---
+
+<div align="center">
+  <strong>Happy analyzing! ðŸ§¬ðŸ”¬</strong>
+</div>
