@@ -48,12 +48,12 @@ http://doi.org/10.13140/RG.2.2.11117.67048
 
 ## Installation
 
-### From CRAN (Recommended)
+### From CRAN
 ```r
 install.packages("Anaconda")
 ```
 
-### From GitHub (Development version)
+### From GitHub (Updated version - better one)
 ```r
 install.packages("devtools")
 library(devtools)
