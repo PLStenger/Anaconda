@@ -40,7 +40,7 @@ https://doi.org/10.1371/journal.pone.0311986
 **Package citation:**
 ```
 Stenger P-L. The R Package "Anaconda": Targeted Differential and Global Enrichment 
-Analysis of Taxonomic Rank by Shared Asvs. CRAN; 2022. pp. 1â€“28. 
+Analysis of Taxonomic Rank by Shared Asvs. CRAN; 2022. pp. 1-28. 
 http://doi.org/10.13140/RG.2.2.11117.67048
 ```
 
